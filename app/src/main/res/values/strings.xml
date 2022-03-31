@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ContentProviderProject</string>
+    <string name="menu_title_history">history</string>
+    <string name="content_provider">Content provider</string>
+    <string name="rule_read_contact">Права на чтение контактов</string>
+    <string name="information_permission">Необходимо получить доступ к контрактам, чтобы позвонить</string>
+    <string name="positive_text_btn">Доступ разрешить</string>
+    <string name="negative_text_btn">Запретить</string>
+</resources>
